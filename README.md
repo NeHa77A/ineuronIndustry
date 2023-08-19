@@ -23,3 +23,7 @@ Create a new Branch
 ```
 git branch developer1
 ```
+To switch the branch
+```
+git checkout branchName
+```
